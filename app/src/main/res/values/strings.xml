@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Recipe</string>
+    <string name="app_storage">com.dynoboyz.myrecipe</string>
+    <string name="app_storage_key">MY RECIPE</string>
+    <string name="title">title</string>
+    <string name="type">type</string>
+    <string name="ingredients">ingredients</string>
+    <string name="steps">steps</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_type">Recipe Type</string>
+    <string name="ingredients_label">INGREDIENTS</string>
+    <string name="steps_label">STEPS</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="error_title">Please enter Recipe Name!</string>
+</resources>
